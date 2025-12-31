@@ -121,10 +121,15 @@ This project demonstrates how healthcare satisfaction data can be transformed in
 
 ## 📁 Repository Structure
 ├── data/ # Raw and cleaned datasets
+
 ├── notebooks/ # Python data cleaning & EDA
+
 ├── sql/ # SQL schema and business queries
+
 ├── dashboard/ # Power BI dashboard files
+
 ├── report/ # Project report / presentation
+
 └── README.md
 
 ---
@@ -132,5 +137,6 @@ This project demonstrates how healthcare satisfaction data can be transformed in
 ## 📬 Contact
 **Harshit Verma**  
 Aspiring Data Analyst  
+- Email: Harsh692002@gmail.com
 - LinkedIn: [Harshit Verma](https://www.linkedin.com/in/harshit-verma-468b94398)  
 - GitHub:  https://github.com/Harshitverma816
